@@ -1,0 +1,8 @@
+[submodule "civitas"]
+	path = civitas
+	url = https://github.com/CentralCollege/civitas
+	branch = dev
+[submodule "president"]
+	path = president
+	url = https://github.com/CentralCollege/president
+	branch = dev
